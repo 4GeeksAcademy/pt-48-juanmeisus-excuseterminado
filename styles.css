@@ -1,29 +1,25 @@
-.cuerpo{
-    background-color: aqua;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+.cuerpo {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.frase{
-    display: flex;
-    flex-direction:column;
-    align-items: center;
-    justify-content: center;
+.frase {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-
-#excuse{
-    color:blueviolet;
+#excuse {
+  color: blueviolet;
 }
 
-
-.enlace{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    max-height: 90%;
-    
+.enlace {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-height: 90%;
 }
